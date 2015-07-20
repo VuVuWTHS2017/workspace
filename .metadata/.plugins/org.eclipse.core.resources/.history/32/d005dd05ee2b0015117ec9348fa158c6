@@ -1,0 +1,7 @@
+package constructors;
+
+public class tuna {
+	private String girlName;
+	
+	
+}
